@@ -1,16 +1,21 @@
-## Hi there 👋
+### Aishvarya M
 
-<!--
-**aishu-0610/aishu-0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an integrated MSc student in Theoretical Computer Science with interests in
+algorithms, graph theory, and combinatorial optimisation. I am interested in 
+understanding the trade-offs between heuristic methods and solutions with provable 
+guarantees for hard computational problems.
 
-Here are some ideas to get you started:
+**Research interests**
+- Graph theory and network algorithms  
+- Combinatorial optimisation  
+- Approximation algorithms and algorithmic guarantees  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected projects**
+- *Exact vs Approximation Algorithms for Vertex Cover*  
+  Comparison of an exponential-time exact algorithm and a greedy 2-approximation,
+  focusing on optimality–efficiency trade-offs.
+
+- *Graph-Based Course Prerequisite Tracker*  
+  Directed graph modelling of academic prerequisites with recursive traversal
+  and explicit data structure design.
+
